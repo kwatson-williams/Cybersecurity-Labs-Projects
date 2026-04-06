@@ -1,15 +1,6 @@
 # Detecting & Resolving a DoS Attack
 
 ### Once I downloaded the pcap, it generated an issue that needed to be resolved. My mission was to determine the threat that impacted the host and resolve it. Key skills and tools utilized were threat detection and analysis via Wireshark, Powershell, and Windows Defender. 
-### Hi, I'm Kemanni Watson-Williams
-
-### Aspiring SOC Analyst that is transitioning from Human Resources (HR) to a cybersecurity professional currently honing my skills through the Per Scholas Cybersecurity Program. With over 9 years of experience in HR, I bring a unique perspective to security - blending technical defense with understanding of human behavior and organizational risk.
-
-### Technical Focus
-- Defensive Security: Monitoring Incident Response and Threat Hunting.
-- Network Security: Analyzing traffic, ARP poisoning mitigation, and WAP security.
-- Cloud Security: AWS Cloud Practitioner Certified (working towards AI Practitioner).
-- Compliance & Risk: Leveraging my HR background to bridge the gap between policy and technical implementation. 
 
 
 <img width="742" height="550" alt="Image" src="https://github.com/user-attachments/assets/5edfdf1e-b45a-43da-9d31-3bf506c1de95" />
