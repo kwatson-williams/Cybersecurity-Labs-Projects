@@ -3,6 +3,8 @@
 ### Once I downloaded the pcap, it generated an issue that needed to be resolved. My mission was to determine the threat that impacted the host and resolve it. Key skills and tools utilized were threat detection and analysis via Wireshark, Powershell, and Windows Defender. 
 
 
+
+
 <img width="742" height="550" alt="Image" src="https://github.com/user-attachments/assets/5edfdf1e-b45a-43da-9d31-3bf506c1de95" />
 
 <img width="665" height="49" alt="Image" src="https://github.com/user-attachments/assets/513df9df-5b22-4517-8dc1-3a7c9e316acd" />
